@@ -13,5 +13,5 @@ wavelink>=3.3.0
 gTTS>=2.3.2
 python-dotenv>=1.0.0
 
-git+https://github.com/darknight156/jishaku
+
 git+https://github.com/Rapptz/discord-ext-menus
